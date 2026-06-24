@@ -1,4 +1,4 @@
-here
+{
   "manifest_version": 1,
   "core": {
     "version": "chroot-main",
